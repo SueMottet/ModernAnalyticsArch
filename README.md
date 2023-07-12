@@ -40,3 +40,34 @@ What is the medallion lakehouse architecture? - Azure Databricks | Microsoft Lea
 # Mongo DB with Azure Architecture Pattern
 Analyze operational data on MongoDB Atlas using Azure Synapse Analytics - Azure Example Scenarios | Microsoft Learn - https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/azure-synapse-analytics-integrate-mongodb-atlas
 
+# Purview
+
+What is Microsoft Purview? | Microsoft Learn: https://learn.microsoft.com/en-us/purview/purview
+
+* Get started with Microsoft Purview risk and compliance solutions
+* Get started with Microsoft Purview governance solutions
+
+Microsoft Purview Data Map supported data sources and file types - Microsoft Purview | Microsoft Learn: https://learn.microsoft.com/en-us/azure/purview/microsoft-purview-connector-overview#microsoft-purview-data-sources
+
+Capture and view data lineage with Unity Catalog - Azure Databricks | Microsoft Learn: https://learn.microsoft.com/en-us/azure/databricks/data-governance/unity-catalog/data-lineage
+
+Asset certification in the Microsoft Purview data catalog - Microsoft Purview | Microsoft Learn: https://learn.microsoft.com/en-us/azure/purview/how-to-certify-assets
+
+https://learn.microsoft.com/en-us/azure/purview/register-scan-azure-databricks: https://learn.microsoft.com/en-us/azure/purview/register-scan-azure-databricks
+
+Making the case for Purview and the Medallion Lakehouse Architecture in Microsoft Fabric (linkedin.com):https://www.linkedin.com/pulse/making-case-purview-medallion-lakehouse-architecture-microsoft
+
+
+
+Data management across Azure Data Lake with Microsoft Purview - Azure Architecture Center | Microsoft Learn: https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-purview-data-lake-estate-architecture
+
+Secure a data lakehouse on Synapse - Azure Architecture Center | Microsoft Learn: https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/secure-data-lakehouse-synapse
+
+Azure Synapse vs Databricks: 6 Critical Differences [2023 Review] - Learn | Hevo (hevodata.com): https://hevodata.com/learn/azure-synapse-vs-databricks/
+
+Azure Synapse Analytics vs. Databricks | Medium | Geek CultureGo to link: https://medium.com/geekculture/azure-synapse-analytics-vs-databricks-7ecab31ee230
+
+Introduction to Apache Kafka in Event Hubs on Azure Cloud - Azure Event Hubs | Microsoft Learn: https://learn.microsoft.com/en-us/azure/event-hubs/azure-event-hubs-kafka-overview 
+
+Unity Catalog is the Azure Databricks data governance solution for the Lakehouse. Whereas, Microsoft Purview provides a unified data governance solution to help manage and govern your on-premises, multicloud, and software as a service (SaaS) data.
+
