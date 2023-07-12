@@ -99,3 +99,23 @@ Learn Apache Spark™ with Delta Lake - Databricks: https://www.databricks.com/r
 Virtual Experience - Data + AI Summit 2023 | Databricks: https://www.databricks.com/dataaisummit/virtual-experience?_gl=1*1ce5se9*_gcl_au*NTAxNDU5NzQ2LjE2ODczNjk0ODA.*_ga*MTE3NjU2Njg5NS4xNjg3MzY5MDYw*_ga_PQSEQ3RZQC*MTY4NzM2OTQ4MS4xLjEuMTY4NzM2OTc2NC41OC4wLjA.&_ga=2.184667691.38633650.1687369060-1176566895.1687369060
 
 Error conditions in Databricks | Databricks on AWS: https://docs.databricks.com/error-messages/index.html
+
+## Lakehouse 3.0 
+Delta Lake 3.0: UniForm provides automatic translation to Apache Iceberg or Apache Hudi to eliminate lakehouse platform incompatibility 
+
+Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics (cidrdb.org):https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf
+
+https://www.databricks.com/company/newsroom/press-releases/announcing-delta-lake-30-new-universal-format-offers-automatic
+
+Announcing Delta Lake 3.0 with New Universal Format and Liquid Clustering | Databricks Blog: https://www.databricks.com/blog/announcing-delta-lake-30-new-universal-format-and-liquid-clustering
+
+## Delta Live Tables (DLTs)
+Delta Live Tables is a declarative framework for building reliable, maintainable, and testable data processing pipelines. You define the transformations to perform on your data and Delta Live Tables manages task orchestration, cluster management, monitoring, data quality, and error handling.
+
+Instead of defining your data pipelines using a series of separate Apache Spark tasks, you define streaming tables and materialized views that the system should create and keep up to date. Delta Live Tables manages how your data is transformed based on queries you define for each processing step. You can also enforce data quality with Delta Live Tables expectations, which allow you to define expected data quality and specify how to handle records that fail those expectations.
+
+What is Delta Live Tables? | Databricks on AWS: https://docs.databricks.com/delta-live-tables/index.html
+
+Delta Live Tables SQL language reference | Databricks on AWS: https://docs.databricks.com/delta-live-tables/sql-ref.html
+
+Delta Live Tables API guide - Azure Databricks | Microsoft Learn: https://learn.microsoft.com/en-us/azure/databricks/delta-live-tables/api-guide
