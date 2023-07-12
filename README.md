@@ -71,3 +71,31 @@ Introduction to Apache Kafka in Event Hubs on Azure Cloud - Azure Event Hubs | M
 
 Unity Catalog is the Azure Databricks data governance solution for the Lakehouse. Whereas, Microsoft Purview provides a unified data governance solution to help manage and govern your on-premises, multicloud, and software as a service (SaaS) data.
 
+# Databricks
+Data Lakehouse Architecture and AI Company | Databricks :https://www.databricks.com/
+
+dbdemos - Install demos for Databricks Lakehouse: https://www.dbdemos.ai/
+
+GitHub - databricks-demos/dbdemos: Demos to implement your Databricks Lakehouse: https://github.com/databricks-demos/dbdemos
+
+Databricks Blog: https://www.databricks.com/blog
+
+Databricks - YouTube: https://www.youtube.com/c/databricks
+
+Helping Enterprises Responsibly Deploy AI | Databricks Blog: https://www.databricks.com/blog/helping-enterprises-responsibly-deploy-ai
+
+## Community
+The updated Databricks Community welcomes you! - Databricks - 35294: https://community.databricks.com/t5/get-started-discussions/the-updated-databricks-community-welcomes-you/td-p/35294
+
+Data Engineering - Databricks: https://community.databricks.com/t5/data-engineering/bd-p/data-engineering?_ga=2.248660807.1385721649.1687951461-1176566895.1687369060&_gl=1*ib4o2m*rs_ga*NGU4NTZiMWMtYzQ1Yi00MDEzLTk1MjctODI1MWU1MTlmNDFk*rs_ga_PQSEQ3RZQC*MTY4ODE0OTU3NDQ2NC4xNi4xLjE2ODgxNTAxOTAuNjAuMC4w*_gcl_au*NTAxNDU5NzQ2LjE2ODczNjk0ODA.
+
+Twin Cities - Databricks: https://community.databricks.com/t5/twin-cities/gh-p/databricks-community-twin-cities
+
+## Training
+Azure Databricks documentation | Microsoft Learn: https://learn.microsoft.com/en-us/azure/databricks/
+
+Learn Apache Spark™ with Delta Lake - Databricks: https://www.databricks.com/resources/ebook/learn-apache-spark-with-delta-lake?utm_medium=paid+search&utm_source=bing&utm_campaign=414807484&utm_adgroup=1312818347393296&utm_content=ebook&utm_offer=learn-apache-spark-with-delta-lake&utm_ad=&utm_term=spark&msclkid=3f9285cac3ab125d9b76e159f6e3fdb5
+
+Virtual Experience - Data + AI Summit 2023 | Databricks: https://www.databricks.com/dataaisummit/virtual-experience?_gl=1*1ce5se9*_gcl_au*NTAxNDU5NzQ2LjE2ODczNjk0ODA.*_ga*MTE3NjU2Njg5NS4xNjg3MzY5MDYw*_ga_PQSEQ3RZQC*MTY4NzM2OTQ4MS4xLjEuMTY4NzM2OTc2NC41OC4wLjA.&_ga=2.184667691.38633650.1687369060-1176566895.1687369060
+
+Error conditions in Databricks | Databricks on AWS: https://docs.databricks.com/error-messages/index.html
