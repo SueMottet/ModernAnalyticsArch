@@ -37,3 +37,6 @@ Overview of Terraform on Azure - What is Terraform? | Microsoft Learn: https://l
 
 What is the medallion lakehouse architecture? - Azure Databricks | Microsoft Learn: https://learn.microsoft.com/en-us/azure/databricks/lakehouse/medallion
 
+# Mongo DB with Azure Architecture Pattern
+Analyze operational data on MongoDB Atlas using Azure Synapse Analytics - Azure Example Scenarios | Microsoft Learn - https://learn.microsoft.com/en-us/azure/architecture/example-scenario/analytics/azure-synapse-analytics-integrate-mongodb-atlas
+
