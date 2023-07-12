@@ -1,1 +1,2 @@
-# Modern Analytic sArch - Azure
+# Modern Analytics Archictecture - Azure
+
